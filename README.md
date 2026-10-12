@@ -1,53 +1,51 @@
 <p align="center">
-  <img src="terminal-banner.svg" alt="Denzel-is — Danila. Full-stack developer. Building tools for learning and business." width="100%" />
+  <img src="./zine-banner.png" alt="Denzel-is — Java, Spring Boot, Backend. Good code. Better days." width="100%" />
 </p>
 
-<p align="center">
-  <a href="#-whoami"><code>about</code></a> &nbsp; / &nbsp;
-  <a href="#-ls-projects"><code>projects</code></a> &nbsp; / &nbsp;
-  <a href="#-cat-stack"><code>stack</code></a>
-</p>
+## Danila / Java & full-stack
 
-### `$ whoami`
+Привет, я **Данила**. Разрабатываю веб-приложения и API — от интерфейса до базы данных и развёртывания. **Java и Spring Boot** — мой основной фокус; TypeScript и React помогают собирать продукт целиком.
 
-Привет, я **Данила** — разрабатываю веб-приложения, API и инструменты, которые помогают учиться и решать задачи бизнеса.
+Сейчас работаю над **Business OS: Digital Clinic** и **CenterTest**: цифровыми инструментами для бизнеса и обучения программированию.
 
-Мои основные проекты сейчас — **CenterTest** и **Business OS: Digital Clinic**. Мне интересно собирать продукт целиком: от понятного интерфейса и логики приложения до базы данных и развёртывания.
+---
 
-### `$ ls projects/`
-
-<a href="https://centertest.borodinda.workers.dev/">
-  <img src="centertest.svg" alt="01 / CenterTest — платформа для тестирования, обучения программированию и совместных уроков. Открыть сайт." width="100%" />
-</a>
-
-Тесты и задания по программированию, автоматическая проверка, учебные группы и совместный редактор для живых уроков.
-
-`TypeScript` · `React` · `Cloudflare Workers` · `D1` · `WebSocket`
-
-**[Открыть CenterTest ↗](https://centertest.borodinda.workers.dev/)** &nbsp; · &nbsp; <sub>Исходный код в закрытом репозитории.</sub>
-
-<br />
+### Selected work / 01
 
 <a href="https://github.com/Denzel-is/Business-OS-Digital-Clinic">
-  <img src="business-os.svg" alt="02 / Business OS: Digital Clinic — интерактивная диагностика бизнес-процессов и цифровые инструменты. Открыть репозиторий." width="100%" />
+  <img src="./zine-business-os.png" alt="Business OS: Digital Clinic — диагностика бизнес-процессов и цифровые инструменты. Открыть репозиторий." width="100%" />
 </a>
 
-Веб-приложение для диагностики операционных проблем бизнеса: интерактивный опрос, демонстрационные кейсы и сценарии обращения за IT-решениями.
+Интерактивная диагностика операционных проблем бизнеса: опрос, демонстрационные кейсы и сценарии перехода к IT-решениям.
 
-`Java` · `Spring Boot` · `Next.js` · `TypeScript` · `PostgreSQL` · `Redis` · `Docker`
+**Java 21 · Spring Boot · Next.js · TypeScript · PostgreSQL · Redis · Docker**
 
-**[Посмотреть проект ↗](https://github.com/Denzel-is/Business-OS-Digital-Clinic)**
+[Репозиторий ↗](https://github.com/Denzel-is/Business-OS-Digital-Clinic)
 
-### `$ cat stack`
+### Selected work / 02
 
-| Область | Технологии |
+<a href="https://centertest.borodinda.workers.dev/">
+  <img src="./zine-centertest.png" alt="CenterTest — тестирование, обучение программированию и совместные уроки. Открыть сайт." width="100%" />
+</a>
+
+Платформа для тестов и заданий по программированию: автоматическая проверка, учебные группы и совместный редактор для живых уроков. Внутри — интерактивный курс Java.
+
+**TypeScript · React · Cloudflare Workers · D1 · WebSocket**
+
+[Открыть CenterTest ↗](https://centertest.borodinda.workers.dev/) · <sub>Исходный код в закрытом репозитории.</sub>
+
+---
+
+### Tools of the trade
+
+| | Технологии |
 | :--- | :--- |
-| **Frontend** | TypeScript · React · Next.js |
-| **Backend** | Java · Spring Boot · Python · Django |
+| **Java / backend** | Java · Spring Boot · REST API |
+| **Web** | TypeScript · React · Next.js |
 | **Data** | PostgreSQL · Redis · SQLite / D1 |
-| **Infrastructure** | Cloudflare Workers · Docker · Git · GitHub Actions |
-| **Также работаю с** | C++ · SFML · Dart · Flutter |
+| **Ship** | Docker · Git · GitHub Actions · Cloudflare Workers |
+| **Also** | Python · Django · C++ · Flutter |
 
-<br />
+---
 
-<img src="terminal-footer.svg" alt="От задачи — к работающему продукту." width="100%" />
+<p align="center"><b>CODE / LEARN / BUILD / REPEAT</b><br /><sub>DENZEL-IS · Good code. Better days.</sub></p>
