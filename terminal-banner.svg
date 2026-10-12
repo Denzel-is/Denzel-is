@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="368" viewBox="0 0 960 368" role="img" aria-labelledby="title desc">
+  <title id="title">Denzel-is — developer terminal</title>
+  <desc id="desc">Danila. Full-stack developer. Building tools for learning and business. Featured projects: CenterTest and Business OS.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M 32 0 L 0 0 0 32" fill="none" stroke="#193128" stroke-width="0.6"/></pattern>
+    <linearGradient id="fade"><stop stop-color="#63edb0" stop-opacity="0.07"/><stop offset="1" stop-color="#63edb0" stop-opacity="0"/></linearGradient>
+  </defs>
+  <rect x="1" y="1" width="958" height="366" rx="14" fill="#0c1117" stroke="#2c3844" stroke-width="2"/>
+  <path d="M15 1H945Q959 1 959 15V47H1V15Q1 1 15 1Z" fill="#161e28"/>
+  <path d="M1 47H959" stroke="#2c3844"/>
+  <g><circle cx="27" cy="24" r="5" fill="#f07878"/><circle cx="47" cy="24" r="5" fill="#e8bd6e"/><circle cx="67" cy="24" r="5" fill="#63dca5"/></g>
+  <g font-family="'Cascadia Code', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace">
+    <text x="94" y="29" font-size="12" fill="#a5b3c2">denzel@github: ~</text>
+    <text x="928" y="29" text-anchor="end" font-size="11" fill="#778899">portfolio.sh</text>
+    <rect x="560" y="48" width="398" height="272" fill="url(#grid)"/>
+    <rect x="560" y="48" width="398" height="272" fill="url(#fade)"/>
+    <text x="36" y="90" font-size="14" fill="#63edb0">~ $ <tspan fill="#cad6e2">./introduce</tspan></text>
+    <text x="32" y="163" font-size="64" font-weight="700" letter-spacing="-3" fill="#ecf4f7">DENZEL-IS<tspan fill="#63edb0">.</tspan></text>
+    <text x="36" y="201" font-size="18" fill="#63edb0">Danila <tspan fill="#566777">/</tspan><tspan fill="#cbd6e2"> Full-stack developer</tspan></text>
+    <text x="36" y="237" font-size="14" fill="#95a6b7">Building tools for learning and business.</text>
+    <rect x="36" y="263" width="179" height="30" rx="5" fill="#14251f" stroke="#294737"/>
+    <text x="49" y="283" font-size="12" fill="#63edb0">01 <tspan fill="#cbd6e2">/ CenterTest</tspan></text>
+    <rect x="227" y="263" width="192" height="30" rx="5" fill="#15222e" stroke="#2b3f52"/>
+    <text x="240" y="283" font-size="12" fill="#8bbef3">02 <tspan fill="#cbd6e2">/ Business OS</tspan></text>
+    <path d="M1 319H959" stroke="#26323e"/>
+    <text x="36" y="348" font-size="12" fill="#63edb0">&gt; <tspan fill="#90a2b3">ready for the next build</tspan></text>
+    <rect x="232" y="337" width="8" height="14" fill="#63edb0"><animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.45;0.5;0.95;1" dur="1.4s" repeatCount="indefinite"/></rect>
+    <text x="928" y="348" text-anchor="end" font-size="11" fill="#677c8d">CODE / BUILD / ITERATE</text>
+  </g>
+</svg>

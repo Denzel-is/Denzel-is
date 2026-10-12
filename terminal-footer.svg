@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="66" viewBox="0 0 960 66" role="img" aria-labelledby="title">
+  <title id="title">From a problem to a working product.</title>
+  <rect x="1" y="1" width="958" height="64" rx="9" fill="#0c1117" stroke="#2c3844" stroke-width="2"/>
+  <text x="26" y="39" font-family="'Cascadia Code', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="14" fill="#63edb0">~ $ <tspan fill="#a6b6c5">from a problem to a working product.</tspan></text>
+  <text x="931" y="39" text-anchor="end" font-family="Consolas, 'Liberation Mono', monospace" font-size="12" fill="#63edb0">[ done ]</text>
+</svg>

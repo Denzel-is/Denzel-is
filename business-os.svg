@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="174" viewBox="0 0 960 174" role="img" aria-labelledby="title desc">
+  <title id="title">Business OS: Digital Clinic</title><desc id="desc">Business diagnostics and digital workflows. Java, Spring Boot and Next.js.</desc>
+  <rect x="1" y="1" width="958" height="172" rx="12" fill="#0c1117" stroke="#2c3844" stroke-width="2"/>
+  <path d="M23 29V145" stroke="#8bbef3" stroke-width="3"/>
+  <g font-family="'Cascadia Code', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace">
+    <text x="45" y="36" font-size="11" fill="#8bbef3" letter-spacing="1.5">02 / FEATURED PROJECT</text>
+    <text x="43" y="82" font-size="34" font-weight="700" fill="#edf4f7">Business OS<tspan font-size="22" fill="#8bbef3"> / Digital Clinic</tspan></text>
+    <text x="45" y="114" font-size="14" fill="#a0b1c0">Business diagnostics &amp; digital workflows.</text>
+    <text x="45" y="146" font-size="11" fill="#71899b">JAVA / SPRING BOOT / NEXT.JS</text>
+    <rect x="718" y="34" width="208" height="108" rx="8" fill="#111d2a" stroke="#2a3c50"/>
+    <text x="734" y="59" font-size="11" fill="#778e9c">workflow.sh</text>
+    <text x="734" y="86" font-size="13" fill="#8bbef3">diagnose</text>
+    <text x="734" y="107" font-size="13" fill="#b2c4d0">design</text>
+    <text x="734" y="128" font-size="13" fill="#b2c4d0">build</text>
+  </g>
+</svg>
