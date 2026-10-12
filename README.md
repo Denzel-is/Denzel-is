@@ -1,44 +1,46 @@
 <p align="center">
-  <img src="./zine-banner.png" alt="Denzel-is — Java, Spring Boot, Backend. Good code. Better days." width="100%" />
+  <img src="./zine-banner.png" alt="Denzel-is / Java, Spring Boot, Backend. Good code. Better days." width="100%" />
 </p>
 
 ## Danila / Java & full-stack
 
-Привет, я **Данила**. Разрабатываю веб-приложения и API — от интерфейса до базы данных и развёртывания. **Java и Spring Boot** — мой основной фокус; TypeScript и React помогают собирать продукт целиком.
+Hi, I'm **Danila**. I build web applications, APIs and tools that make learning more practical. I work with **Java, Spring Boot and TypeScript**, connecting interfaces, application logic and data into complete products.
 
-Сейчас работаю над **Business OS: Digital Clinic** и **CenterTest**: цифровыми инструментами для бизнеса и обучения программированию.
+My main project is **CenterTest**, a platform for programming education, assessments and collaborative lessons.
 
 ---
 
-### Selected work / 01
-
-<a href="https://github.com/Denzel-is/Business-OS-Digital-Clinic">
-  <img src="./zine-business-os.png" alt="Business OS: Digital Clinic — диагностика бизнес-процессов и цифровые инструменты. Открыть репозиторий." width="100%" />
-</a>
-
-Интерактивная диагностика операционных проблем бизнеса: опрос, демонстрационные кейсы и сценарии перехода к IT-решениям.
-
-**Java 21 · Spring Boot · Next.js · TypeScript · PostgreSQL · Redis · Docker**
-
-[Репозиторий ↗](https://github.com/Denzel-is/Business-OS-Digital-Clinic)
-
-### Selected work / 02
+### Featured project / CenterTest
 
 <a href="https://centertest.borodinda.workers.dev/">
-  <img src="./zine-centertest.png" alt="CenterTest — тестирование, обучение программированию и совместные уроки. Открыть сайт." width="100%" />
+  <img src="./zine-centertest-v2.png" alt="CenterTest / Programming education, assessments and collaborative lessons. Visit the website." width="100%" />
 </a>
 
-Платформа для тестов и заданий по программированию: автоматическая проверка, учебные группы и совместный редактор для живых уроков. Внутри — интерактивный курс Java.
+**A place to code, test and learn together.**
+
+CenterTest brings programming exercises, assessments and teaching tools into one platform:
+
+- Coding tasks with automated checks and manual review.
+- Study groups and a shared code editor for live lessons.
+- An interactive Java course with hands-on exercises.
 
 **TypeScript · React · Cloudflare Workers · D1 · WebSocket**
 
-[Открыть CenterTest ↗](https://centertest.borodinda.workers.dev/) · <sub>Исходный код в закрытом репозитории.</sub>
+[Explore CenterTest ↗](https://centertest.borodinda.workers.dev/) · <sub>Source code is currently private.</sub>
+
+---
+
+### Also building / Business OS
+
+[Business OS: Digital Clinic](https://github.com/Denzel-is/Business-OS-Digital-Clinic) is a project for exploring business workflows and turning operational problems into digital solutions.
+
+<sub>Java 21 · Spring Boot · Next.js · PostgreSQL · Redis · Docker</sub>
 
 ---
 
 ### Tools of the trade
 
-| | Технологии |
+| Area | Technologies |
 | :--- | :--- |
 | **Java / backend** | Java · Spring Boot · REST API |
 | **Web** | TypeScript · React · Next.js |
