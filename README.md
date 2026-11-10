@@ -6,7 +6,6 @@
 
 Hi, I'm **Danila**. I build web applications, APIs and tools that make learning more practical. I work with **Java, Spring Boot and TypeScript**, connecting interfaces, application logic and data into complete products.
 
-My main project is **CenterTest**, a platform for programming education, assessments and collaborative lessons.
 
 ---
 
